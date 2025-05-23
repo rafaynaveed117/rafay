@@ -3,7 +3,7 @@
   <link rel="stylesheet" herf="
   style.css">
   <title>
-spider man
+spider man. 
   </title>
   </head>
   <body>
